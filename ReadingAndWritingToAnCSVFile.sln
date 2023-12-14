@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadingAndWritingToAnCSVFile", "ReadingAndWritingToAnCSVFile\ReadingAndWritingToAnCSVFile.csproj", "{FD8CEA8C-9081-4CBA-847F-83ECAF59465D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD8CEA8C-9081-4CBA-847F-83ECAF59465D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD8CEA8C-9081-4CBA-847F-83ECAF59465D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD8CEA8C-9081-4CBA-847F-83ECAF59465D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD8CEA8C-9081-4CBA-847F-83ECAF59465D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33CD9C7A-A43F-4330-A792-2812AA1CF2CF}
+	EndGlobalSection
+EndGlobal
